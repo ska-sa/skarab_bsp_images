@@ -1,0 +1,11 @@
+===================================
+Configuration Memory information
+===================================
+File Format        BIN
+Interface          BPIX16
+Size               128M
+Start Address      0x00000000
+End Address        0x07FFFFFF
+
+Addr1         Addr2         Date                    File(s)
+0x00000000    0x006A3D73    Jun 13 13:03:41 2017    FRM123701U1R1.runs/impl_Mez3_golden/frm123701u1r1.bit
