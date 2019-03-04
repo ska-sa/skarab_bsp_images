@@ -1,14 +1,13 @@
 # skarab_bsp_images
 Firmware images for the SKARAB board
 
-
 Golden images
 --------------
-frm123701u1r1_mez3_golden_ska_sa.*
+skarab_fgbe_XXXX-XX-XX_XXXX_golden.*, XXXX-XX-XX_XXXX = timestamp
 
 Multiboot images
 -------------
-frm123701u1r1_mez3_ska_sa.*
+skarab_fgbe_XXXX-XX-XX_XXXX_multiboot.*, XXXX-XX-XX_XXXX = timestamp
 
 Spartan image
 ---------------
