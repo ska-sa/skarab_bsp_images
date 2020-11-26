@@ -3,7 +3,7 @@ Firmware images for the SKARAB board
 
 Golden image
 ------------
-skarab_fgbe_XXXX-XX-XX_XXXX_golden.*, XXXX-XX-XX_XXXX = timestamp \
+skarab_fgbe_1gbe_XXXX-XX-XX_XXXX_golden.*, XXXX-XX-XX_XXXX = timestamp \
 *.hex = HEX flash programming file for casperfpga's virtex_flash_reconfig() function \
 *.bin = Binary programming file for casperfpga's upload_to_ram_and_program() function \
 *.mcs = HEX flash programming file via JTAG (for board recovery only) \
@@ -11,7 +11,7 @@ skarab_fgbe_XXXX-XX-XX_XXXX_golden.*, XXXX-XX-XX_XXXX = timestamp \
 
 Multiboot image
 ---------------
-skarab_fgbe_XXXX-XX-XX_XXXX_multiboot.*, XXXX-XX-XX_XXXX = timestamp \
+skarab_fgbe_1gbe_XXXX-XX-XX_XXXX_multiboot.*, XXXX-XX-XX_XXXX = timestamp \
 *.hex = HEX flash programming file for casperfpga's virtex_flash_reconfig() function \
 *.bin = Binary programming file for casperfpga's upload_to_ram_and_program() function \
 *.mcs = HEX flash programming file via JTAG (for board recovery only) \
